@@ -1,5 +1,5 @@
 # PyhtonVideoGame
-Game programmed over the course of a class.
+Game programmed over the course of a class in a group.
 Below are links explaining some of the code as it was being written that I recorded.
 
 https://www.youtube.com/watch?v=Oug2i3bdOZE&t=4s
