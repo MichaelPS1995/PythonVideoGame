@@ -1,3 +1,6 @@
+#This was saved as a .ipynb but that's not supported by git so i did python to highlight syntax and so it would load the code.
+
+
 #########################################
 
 def get_distance(enemy_x, enemy_y, player_x, player_y):
