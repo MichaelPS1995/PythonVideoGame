@@ -197,7 +197,6 @@ def get_cell( m, cell_num, x_player, y_player):
     
     return (row, col)
 
-
 #########################################
 # Given knowledge of an x position and y position
 # produces a 4-tuple of the physical coordinates of each of the 
