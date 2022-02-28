@@ -1,4 +1,4 @@
-# PyhtonVideoGame
+# PythonVideoGame
 Game programmed over the course of a class in a group of three.
 Below are links explaining some of the code as it was being written that I recorded.
 
